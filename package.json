@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "This repo is all things about Webpack, I've already learnt.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "webpack"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mohamedsgap/webpack-practice.git"
