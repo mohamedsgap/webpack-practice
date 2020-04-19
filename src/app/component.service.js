@@ -17,4 +17,4 @@ export class ComponentService {
     onClick(cb) {
       this.addValuesButton.addEventListener("click", cb);
     }
-  }
+}
