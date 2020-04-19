@@ -20,6 +20,8 @@
   "devDependencies": {
     "bootstrap": "^4.4.1",
     "css-loader": "^3.5.2",
+    "node-loader": "^0.6.0",
+    "scss-loader": "0.0.1",
     "style-loader": "^1.1.4",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11"
