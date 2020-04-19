@@ -4,7 +4,7 @@
   "description": "This repo is all things about Webpack, I've already learnt.",
   "main": "index.js",
   "scripts": {
-    "start": "webpack"
+    "start": "webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
