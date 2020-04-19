@@ -9,4 +9,4 @@ module.exports = merge(config, {
       filename: "hello.[contentHash].js",
       path: path.resolve(__dirname, "helloDist")
     }
-  });
+});
